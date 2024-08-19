@@ -1,0 +1,6 @@
+Bibliographical References and Copyright
+
+Pereira, CM (2022) Bibliometria na Prática com R e Bibliometrix. https://www.dropbox.com/scl/fo/1985aa0lxm61vp6sbgqr3/h?dl=0&e=1&preview=Bibliometria_Pr%C3%A1tica_com_R.pdf&rlkey=ixtlbvtl5yw18bhhavt7j82vt. Access 12 March 2024.
+
+https://www.youtube.com/watch?v=2XKsq_y9z_M
+https://www.dropbox.com/scl/fo/1985aa0lxm61vp6sbgqr3/h?dl=0&e=1&preview=Bibliometria_Pr%C3%A1tica_com_R.pdf&rlkey=ixtlbvtl5yw18bhhavt7j82vt
